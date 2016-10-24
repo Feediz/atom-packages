@@ -20,6 +20,7 @@ Atom setup that I really like.
 * platformio-ide-terminal - terminal in ide :)
 * rest-client - test your restful interfaces with get post etc. requests
 * tasks - pretty tasks in markdown
+* docblockr - Parses function params and generates comments for editing what function does
 
 ### Additional Packages Not In Use (but cool anyways)
 * nuclide
