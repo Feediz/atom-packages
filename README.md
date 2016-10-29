@@ -21,6 +21,10 @@ Atom setup that I really like.
 * rest-client - test your restful interfaces with get post etc. requests
 * tasks - pretty tasks in markdown
 * docblockr - Parses function params and generates comments for editing what function does
+* hyperclick - allows clicking of a function to jump to definition
+* js-hyperclick - hyperclick for js
+* project-manager - allows you to save projects in atom that can be accessed from a manager (requries saving)
+* node-debugger - allows you to debug node applications
 
 ### Additional Packages Not In Use (but cool anyways)
 * nuclide
