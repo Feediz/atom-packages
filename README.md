@@ -26,6 +26,18 @@ Atom setup that I really like.
 * project-manager - allows you to save projects in atom that can be accessed from a manager (requries saving)
 * node-debugger - allows you to debug node applications
 
+***Updated Version***
+* atom-ternjs - auto completion for javascript using local imported libraries
+* auto-update-packages - auto updates aotm packages
+* docblockr - creates comment blocks for functions based on params
+* git-projects - creates project shortcuts based on local git repos
+* hyperclick - click through (haven't gotten to work :( )
+* js-hyperclick - click through for js (addon for hyperclick)
+* markdown-table-formatter - must have when doing tables and pretties them up
+* project-manager - creates project shortcuts manually
+* sync-settings - sync packages across atom on diffferent computers
+
+
 ### Additional Packages Not In Use (but cool anyways)
 * nuclide
 
